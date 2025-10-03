@@ -1,0 +1,26 @@
+{
+  "name": "Churn Analysis Theme",
+  "dataColors": [
+    "#1f77b4", 
+    "#ff7f0e", 
+    "#2ca02c", 
+    "#7f7f7f", 
+    "#9467bd", 
+    "#8c564b"
+  ],
+  "background": "#f9f9f9",
+  "foreground": "#333333",
+  "tableAccent": "#1f77b4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#333333" } },
+            "textSize": 12
+          }
+        ]
+      }
+    }
+  }
+}
